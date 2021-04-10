@@ -17,7 +17,6 @@ function App(){
             <Route path = '/about' exact component = {About} />
             <Route path = '/services' exact component = {Service} />    
             <Route path = '/contact' exact component = {Contact} />    
-
             </BrowserRouter>
         </div>
 
